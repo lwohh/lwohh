@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwohh
-- 👀 I’m interested in Cybersecurity & Software Development
-- 🌱 I’m currently learning Java & Python (scripting)
-- 📫 How to reach me www.linkedin.com/in/canyonwhite
+- 👀 I’m interested in Cybersecurity & Anti-cheat Engineering
+- 🌱 I’m currently learning C++ for low-level projects and Python for smaller high-level scripting projects
+- 📫 How to reach me https://www.linkedin.com/in/canyonwhite
 - 😄 Pronouns: he/him
 
 <!---
