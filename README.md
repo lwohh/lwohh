@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lwohh
-- 👀 I’m interested in Game Development & Design
-- 🌱 I’m currently working in Godot 4.5 for my main projects
+- 👀 I’m interested in Data Science & Analytics
 - 📫 How to reach me https://www.linkedin.com/in/canyonwhite
 - 😄 Pronouns: he/him
